@@ -14,6 +14,6 @@ metadata:
     - go
 spec:
   type: cloudinfra
-  owner: john@example.com
+  owner: group:pathfinder
   lifecycle: experimental
   
